@@ -1,0 +1,5 @@
+.qodo
+.venv/
+__pycache__/
+document_store/pdfs/data_science.pdf
+
