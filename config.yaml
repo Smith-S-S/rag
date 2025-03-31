@@ -1,7 +1,0 @@
-pdf_storage_path: "document_store/pdfs/"
-embedding_model: "deepseek-r1:1.5b"
-language_model: "deepseek-r1:1.5b"
-chunk_size: 1000
-chunk_overlap: 200
-api_url: "http://localhost:11434"
-thinking : False
